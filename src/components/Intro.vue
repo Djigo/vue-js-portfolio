@@ -4,7 +4,7 @@
   <source src="../assets/videos/intro.mp4" type="video/mp4">
 </video>
     <div class="container">
-      <h1>Investment Banking</h1>
+      <h1>John Doe - Front End Developer</h1>
       <table class="center-logo">
       <tr>
   <td>
