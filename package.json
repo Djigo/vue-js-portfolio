@@ -17,7 +17,7 @@
     "vue-scrollto": "^2.18.1",
     "vuex": "^3.2.0",
     "acorn": ">=5.7.4",
-    "serialize-javascript": ">=2.1.1"
+    "serialize-javascript": ">=3.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.1",
@@ -30,6 +30,6 @@
     "sass-loader": "^7.3.1",
     "vue-template-compiler": "^2.6.11",
     "acorn": ">=5.7.4",
-    "serialize-javascript": ">=2.1.1"
+    "serialize-javascript": ">=3.1.0"
   }
 }
